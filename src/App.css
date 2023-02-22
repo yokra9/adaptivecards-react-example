@@ -1,0 +1,29 @@
+label {
+  margin-right: 10px;
+  display: inline-block;
+  width: 150px;
+}
+
+input[type="text"] {
+  width: 250px;
+}
+
+.input-form,
+.code,
+.ac-adaptiveCard {
+  box-shadow: 0 1px 4px 0 #666;
+}
+
+.input-form {
+  margin-top: 14px;
+  padding: 10px;
+}
+
+.code {
+  font-family: consolas, Osaka;
+  color: #e0e0e0;
+  background-color: #1b1b1b;
+  padding: 20px;
+  border-radius: 10px;
+  overflow-x: scroll;
+}
